@@ -1,4 +1,5 @@
 # AeroFit Sales Analysis Dashboard
+Interactive Power BI dashboard for analyzing AeroFit sales, retailer performance, and product trends.
 
 ## Overview
 This project is an interactive Power BI dashboard created to analyze AeroFit sales performance across products, retailers, regions, and sales methods.  
