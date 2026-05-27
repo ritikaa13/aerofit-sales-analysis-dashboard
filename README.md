@@ -58,19 +58,19 @@ Features:
 
 ---
 
-### 3. Retailer Dashboard
+### 3. Regional Performance Dashboard
 Features:
-- Retailer-wise Sales Analysis
-- Operating Profit Comparison
-- Regional Filters
-- Sales Method Analysis
-- State-wise Retail Sales Map
+Region-wise Sales Analysis
+Operating Profit Comparison by Region
+Regional Sales Distribution
+Region Filters
+State-wise Sales Map
 
-#### Key Insights
-- West Gear had the highest sales
-- In-store sales contributed the most
-- Sales varied across different states
-- Higher sales led to better profit
+### Key Insights
+West region contributed highest sales
+Northeast showed strong sales performance
+Sales varied across different states
+Profit differed across regions
 
 ---
 
