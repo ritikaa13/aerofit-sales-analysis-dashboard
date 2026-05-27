@@ -60,17 +60,17 @@ Features:
 
 ### 3. Regional Performance Dashboard
 Features:
-Region-wise Sales Analysis
-Operating Profit Comparison by Region
-Regional Sales Distribution
-Region Filters
-State-wise Sales Map
+- Region-wise Sales Analysis
+- Operating Profit Comparison by Region
+- Regional Sales Distribution
+- Region Filters
+- State-wise Sales Map
 
 ### Key Insights
-West region contributed highest sales
-Northeast showed strong sales performance
-Sales varied across different states
-Profit differed across regions
+- West region contributed highest sales
+- Northeast showed strong sales performance
+- Sales varied across different states
+- Profit differed across regions
 
 ---
 
