@@ -83,7 +83,7 @@ Features:
 ![Product Dashboard](dashboard-screenshots/product-page.png)
 
 ### Retailer Dashboard
-![Retailer Dashboard](dashboard-screenshots/regional-page.png)
+![Retailer Dashboard](dashboard-screenshots/Regional-Page.png)
 
 ---
 
