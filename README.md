@@ -105,6 +105,7 @@ The dashboard provides meaningful business insights using KPI cards, charts, sli
 # Files Included
 - AeroFit Sales Dashboard (.pbix)
 - Business Related documents (.pdf)
+- Dataset (.xlsx)
 - Project Presentation (.pptx)
 - Dashboard Screenshots
 
