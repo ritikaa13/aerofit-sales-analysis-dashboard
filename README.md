@@ -1,18 +1,23 @@
 # AeroFit Sales Analysis Dashboard
-Interactive Power BI dashboard for analyzing AeroFit sales, retailer performance, and product trends.
+
+Interactive Power BI dashboard for analyzing AeroFit sales performance, product trends, retailer insights, and regional analysis.
+
+---
 
 ## Overview
-This project is an interactive Power BI dashboard created to analyze AeroFit sales performance across products, retailers, regions, and sales methods.  
-The dashboard provides business insights using KPIs, charts, slicers, and maps.
+This project is an interactive Power BI dashboard created to analyze AeroFit sales performance across products, retailers, regions, and sales methods.
+
+The dashboard provides meaningful business insights using KPI cards, charts, slicers, maps, and drill-through functionality.
 
 ---
 
 ## Objectives
 - Analyze overall sales performance
 - Identify top-performing products and retailers
-- Compare operating profit across retailers
+- Compare operating profit across retailers and regions
 - Track monthly sales trends
-- Understand sales distribution across states and sales methods
+- Understand regional and state-wise sales distribution
+- Perform detailed drill-through analysis
 
 ---
 
@@ -24,76 +29,88 @@ The dashboard provides business insights using KPIs, charts, slicers, and maps.
 
 ---
 
-## Dashboard Pages
+# Dashboard Pages
 
-### 1. Sales Overview Dashboard
-Features:
+## 1. Sales Overview Dashboard
+
+### Features
 - KPI Cards
 - Monthly Sales Trend
 - Product-wise Sales Analysis
-- Retailer-wise Sales & Profit
+- Retailer-wise Sales & Operating Profit Analysis
 - Sales Method Distribution
+- Region-wise Sales Distribution
 - State-wise Sales Map
-
-#### Key Insights
-- Total sales reached 899.90M
-- Sales peaked during July and August
-- Men’s Street Footwear generated highest sales
-- In-store sales contributed the most revenue
-
----
-
-### 2. Product Dashboard
-Features:
-- Product Performance Analysis
-- Year-wise Sales Comparison
-- MTD & YTD Analysis
-- State-wise Product Sales Distribution
-
-#### Key Insights
-- Men’s Apparel showed strong sales growth
-- Sales performance varied across years
-- Higher sales resulted in better operating profit
-- Some states contributed more product sales than others
-
----
-
-### 3. Regional Performance Dashboard
-Features:
-- Region-wise Sales Analysis
-- Operating Profit Comparison by Region
-- Regional Sales Distribution
-- Region Filters
-- State-wise Sales Map
+- Drill-through Navigation
 
 ### Key Insights
-- West region contributed highest sales
-- Northeast showed strong sales performance
-- Sales varied across different states
-- Profit differed across regions
+- Total sales reached 899.90M
+- Sales peaked during July and August
+- Men’s Street Footwear generated the highest sales
+- In-store sales contributed the highest revenue
+- West region contributed the highest regional sales
 
 ---
 
-## Dashboard Screenshots
+## 2. Product Performance Dashboard
 
-### Sales Overview Dashboard
+### Features
+- Product Drill-through Report
+- Product Performance Analysis
+- Year-wise Sales Comparison
+- MTD & YTD KPI Analysis
+- Retailer-wise Product Sales & Profit Analysis
+- State-wise Product Sales Distribution
+
+### Key Insights
+- Men’s Apparel showed strong sales growth
+- Sales performance varied across different years
+- Higher sales resulted in better operating profit
+- Product sales varied across different states
+
+---
+
+## 3. Regional Performance Dashboard
+
+### Features
+- Regional Drill-through Report
+- Region-wise Sales Analysis
+- Retailer-wise Sales Comparison
+- Operating Profit Comparison by Region
+- State-wise Sales Distribution Map
+- Dynamic Region Filtering
+
+### Key Insights
+- West region contributed the highest sales
+- Northeast region showed strong sales performance
+- Sales varied across different states
+- Operating profit differed across regions
+- Retailer performance varied within each region
+
+---
+
+# Dashboard Screenshots
+
+## Sales Overview Dashboard
 ![Sales Overview Dashboard](dashboard-screenshots/summary-page.png)
 
-### Product Dashboard
+## Product Performance Dashboard
 ![Product Dashboard](dashboard-screenshots/product-page.png)
 
-### Retailer Dashboard
-![Retailer Dashboard](dashboard-screenshots/Regional-Page.png)
+## Regional Performance Dashboard
+![Regional Dashboard](dashboard-screenshots/Regional-Page.png)
 
 ---
 
-## Files Included
+# Files Included
 - AeroFit Sales Dashboard (.pbix)
+- Business Related documents (.pdf)
 - Project Presentation (.pptx)
 - Dashboard Screenshots
 
 ---
 
-## Conclusion
-This project helps analyze sales performance using interactive dashboards and visual analytics.  
-It provides meaningful business insights that can support better decision-making.
+# Conclusion
+This project demonstrates how interactive Power BI dashboards and drill-through analysis can be used to analyze sales performance, retailer trends, product insights, and regional business performance.
+
+The dashboard provides meaningful business insights that can support data-driven decision-making.
